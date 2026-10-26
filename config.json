@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "name": "YouTube",
+      "id": "9Ur5IzDKqV.TizenYouTube",
+      "match": [
+        "youtube"
+      ],
+      "glyph": "youtube"
+    },
+    {
+      "name": "Netflix",
+      "id": "RN1MCdNq8t.Netflix",
+      "alt": [
+        "org.tizen.netflix-app"
+      ],
+      "match": [
+        "netflix"
+      ],
+      "glyph": "netflix"
+    },
+    {
+      "name": "Spotify",
+      "id": "3201606009684",
+      "match": [
+        "spotify"
+      ],
+      "glyph": "spotify"
+    },
+    {
+      "name": "Coupang Play",
+      "id": null,
+      "match": [
+        "coupang",
+        "쿠팡"
+      ],
+      "glyph": "coupang"
+    },
+    {
+      "name": "Apple TV",
+      "id": null,
+      "match": [
+        "apple tv"
+      ],
+      "glyph": "apple"
+    }
+  ],
+  "wallpapers": [
+    "https://raw.githubusercontent.com/stuarth89/tv-launcher/main/wallpapers/wall0.jpg",
+    "https://raw.githubusercontent.com/stuarth89/tv-launcher/main/wallpapers/wall1.jpg",
+    "https://raw.githubusercontent.com/stuarth89/tv-launcher/main/wallpapers/wall2.jpg",
+    "https://raw.githubusercontent.com/stuarth89/tv-launcher/main/wallpapers/wall3.jpg"
+  ],
+  "wallpaper": 0,
+  "rotateMinutes": 10,
+  "theme": {
+    "scrim": 0.62,
+    "fontSize": 110,
+    "dimOpacity": 0.6
+  }
+}

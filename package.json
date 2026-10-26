@@ -1,0 +1,9 @@
+{
+  "name": "stu-tv-home-launcher",
+  "version": "1.0.0",
+  "description": "Apple TV-style home launcher (TizenBrew app module)",
+  "packageType": "app",
+  "appName": "Home",
+  "appPath": "index.html",
+  "keys": ["MediaPlayPause", "ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue"]
+}
